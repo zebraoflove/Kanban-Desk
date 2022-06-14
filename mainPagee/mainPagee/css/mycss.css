@@ -1,0 +1,139 @@
+body
+{
+    background-color: #fff5f7;
+    height: 900px;
+    width: 1600px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+}
+
+h3
+{
+    position: relative;
+    top: 20px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #5C5959;
+}
+
+.group
+{
+    position: absolute;
+    width: 530px;
+    height: 370px;
+    left: 40px;
+    top: 570px;
+    border-radius: 0px;
+    Opacity: 75%;
+}
+
+.rightGroup
+{
+    position: absolute;
+    height: 480px;
+    width: 490px;
+    left: 1030px;
+    top: 520px;
+    border-radius: 0px;
+    Opacity: 80%;
+}
+
+.header
+{
+    position: absolute;
+    height: 79px;
+    width: 241px;
+    left: 730px;
+    top: 185px;
+    border-radius: nullpx;
+    font-family: Roboto;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.boar
+{
+    position: absolute;
+    height: 106px;
+    width: 141px;
+    left: 609px;
+    top: 208px;
+    border-radius: 0px;    
+}
+
+.signIn
+{
+    position: absolute;
+    width: 375px;
+    height: 320px;
+    left: 612px;
+    top: 343px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+input
+{
+    height: 45px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+.email
+{   
+    position: relative;
+    left: 35px;
+    top: 30px;
+}
+
+.password
+{
+    position: relative;
+    left: 35px;
+    top: 35px;   
+}
+
+.enterCont
+{
+    position: relative;
+    width: 310px;
+    height: 40px;
+    left: 35px;
+    top: 40px;
+    background: #00A3FF;
+    border-radius: 5px;
+}
+
+.enter
+{
+    position: relative;
+    top: 8px;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.info
+{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #0038FF;
+}
